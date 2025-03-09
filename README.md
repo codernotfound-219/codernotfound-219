@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Aswatt Gayathri Kartikeyan, a B.Tech Sophomore at National Institute of Technology, Warangal.
+
+- Degree Pursued:
+    - Electrical & Electronics Engineering.
+    - Minor in Computer Science Engineering.
